@@ -1,0 +1,20 @@
+{
+  "name": "pruebasunitarias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Javier Beltran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "g": "^2.0.1",
+    "mongoose": "^6.0.5",
+    "test": "^0.6.0"
+  },
+  "devDependencies": {
+    "jasmine": "^3.9.0"
+  }
+}
